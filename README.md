@@ -1,10 +1,14 @@
-### uv を触ってみた
+### 開発環境
 
 - M1 Mac
 - Sonoma 15.0.1
 
+### 参考ドキュメント
+
 - [DjangoMeetupTokyo #13 中級者向けハンズオン](https://tokibito.github.io/django-meetup-tokyo-13/)
 - [uv の公式ドキュメント](https://docs.astral.sh/uv/guides/integration/docker/)
+
+### 準備
 
 local_settings.py をリポジトリ直下に作成
 
